@@ -4,3 +4,14 @@ img{
 }
 html{font-size: 62.5%;}
 body{font-size: 1.4rem;}
+@media only screen and (min-width:651px) {
+  html {
+    font-size: 71.4286%;
+  }
+}
+ 
+@media only screen and (min-width:961px) {
+  html {
+    font-size: 75.8929%;
+  }
+}
